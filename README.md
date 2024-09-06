@@ -17,6 +17,7 @@ A curated list of awesome RSpec-related resources
 
 ## Style guides and linters
 - [RSpec Style Guide](https://rspec.rubystyle.guide)
+- [Even better specs](https://evenbetterspecs.github.io) - An opinionated set of best practices to support the creation of tests that are easy to read and maintain.
 - [rubocop-rspec](https://github.com/rubocop/rubocop-rspec)
 - [rubocop-factory_bot](https://github.com/rubocop/rubocop-factory_bot)
 
